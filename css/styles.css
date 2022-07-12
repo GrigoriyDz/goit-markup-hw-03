@@ -18,6 +18,7 @@ body {
 .header-container {
   display: flex;
   align-items: center;
+  padding-left: 215px;
 }
 /* Logo */
 .logo {
@@ -80,7 +81,7 @@ body {
 }
 
 .header-contacts {
-  padding-left: 330px;
+  padding-left: 115px;
   gap: 50px;
 }
 .header-contacts-item {
