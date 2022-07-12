@@ -18,7 +18,6 @@ body {
 .header-container {
   display: flex;
   align-items: center;
-  padding-left: 215px;
 }
 /* Logo */
 .logo {
@@ -81,7 +80,7 @@ body {
 }
 
 .header-contacts {
-  padding-left: 115px;
+  padding-left: 330px;
   gap: 50px;
 }
 .header-contacts-item {
@@ -108,9 +107,9 @@ body {
 /* Hero */
 .hero {
   color: rgba(255, 255, 255, 1);
+  background-color: rgba(47, 48, 58, 1);
 }
 .hero-container {
-  background-color: rgba(47, 48, 58, 1);
   padding-top: 200px;
   padding-bottom: 200px;
 }
@@ -172,6 +171,7 @@ body {
 
 /* Case */
 .case {
+  padding-bottom: 94px;
 }
 .case-list {
   display: flex;
@@ -201,10 +201,9 @@ body {
 }
 /* Team */
 .team {
-  padding-top: 94px;
+  background-color: rgba(245, 244, 250, 1);
 }
 .team-container {
-  background-color: rgba(245, 244, 250, 1);
   padding-bottom: 94px;
 }
 .team-title {
@@ -251,9 +250,9 @@ body {
 
 /* Footer */
 .footer {
+  background-color: rgba(47, 48, 58, 1);
 }
 .footer-container {
-  background-color: rgba(47, 48, 58, 1);
   padding-top: 60px;
   padding-bottom: 60px;
   padding-left: 215px;

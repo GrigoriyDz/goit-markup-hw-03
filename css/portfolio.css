@@ -20,7 +20,6 @@ body {
 .header-container {
   display: flex;
   align-items: center;
-  padding-left: 215px;
 }
 /* Logo */
 .logo {
@@ -85,7 +84,7 @@ body {
 
 /* Contacts */
 .header-contacts {
-  padding-left: 115px;
+  padding-left: 330px;
 }
 .header-contacts-item {
   width: 125px;
@@ -192,8 +191,10 @@ body {
 
 /* Footer */
 
-.footer-container {
+.footer {
   background-color: rgba(47, 48, 58, 1);
+}
+.footer-container {
   padding-top: 60px;
   padding-bottom: 60px;
   padding-left: 215px;
